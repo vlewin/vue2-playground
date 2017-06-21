@@ -1,5 +1,7 @@
 import Vue from 'vue'
-import store from './vuex/store.js'
+// import store from './vuex/store.js'
+import store from './vuex/vuex-socket.js'
+
 import router from './router'
 import App from './App.vue'
 

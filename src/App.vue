@@ -9,7 +9,7 @@
 
     <hr>
     <app-footer></app-footer>
-  <div>
+  </div>
 </template>
 
 <script>

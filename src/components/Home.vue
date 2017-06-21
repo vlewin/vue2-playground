@@ -3,7 +3,8 @@
     <h2>HOME</h2>
     <p>{{ message }} - {{ view }}</p>
 
-    <b>Bars list</b>
+    {{ $store.state.data }}
+    <!-- <b>Bars list</b>
     <hr>
     <ol id="bars">
       <li v-for="bar in bars">
@@ -17,7 +18,7 @@
       <li v-for="foo in foos">
         {{ foo.name }}
       </li>
-    </ol>
+    </ol> -->
   </div>
 </template>
 

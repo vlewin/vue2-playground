@@ -13,6 +13,7 @@
         <router-link to="/foo">Foo</router-link>
       </li>
     </ul>
+  </div>
 </template>
 
 <script>
